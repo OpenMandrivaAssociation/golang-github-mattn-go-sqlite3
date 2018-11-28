@@ -35,9 +35,6 @@ cp %{SOURCE1} %{SOURCE2} .
 %install
 %goinstall glide.lock glide.yaml _example
 
-%check
-%gochecks
-
 #define license tag if not already defined
 %{!?_licensedir:%global license %doc}
 
