@@ -1,11 +1,11 @@
 # https://github.com/mattn/go-sqlite3
 %global goipath         github.com/mattn/go-sqlite3
-Version:	1.10.0
+Version:	1.11.0
 
 %gometa
 
 Name:           golang-github-mattn-go-sqlite3
-Release:        1%{?dist}
+Release:	1
 Summary:        Sqlite3 driver for go that using database/sql
 License:        MIT
 URL:            %{gourl}
