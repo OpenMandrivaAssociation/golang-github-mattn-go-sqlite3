@@ -1,6 +1,6 @@
 # https://github.com/mattn/go-sqlite3
 %global goipath         github.com/mattn/go-sqlite3
-Version:	1.11.0
+Version:	1.12.0
 
 %gometa
 
