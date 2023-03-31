@@ -5,7 +5,7 @@ Version:	2.0.6
 %gometa
 
 Name:           golang-github-mattn-go-sqlite3
-Release:	1
+Release:	2
 Summary:        Sqlite3 driver for go that using database/sql
 License:        MIT
 URL:            %{gourl}
